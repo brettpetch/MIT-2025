@@ -1,7 +1,7 @@
 ---
 Title: Lecture 0 - MIT 2025 - Research Methods in a Digital Age
 Author: Brett Petch
-Date: January 7th, 2019 7pm
+Date: 2019-01-07 19:00:00
 ---
 
 # MIT 2025
