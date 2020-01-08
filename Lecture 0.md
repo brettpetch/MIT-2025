@@ -59,3 +59,29 @@ Date: January 7th, 2019 7pm
         - issues you will deal with in professions: need to know how to navigate.
     - Data analytics
     - Strategic planning
+- Interactive maps in news stories
+    - inquiry into this
+    - Infographics...
+    - All tell stories about climate change in Australia...
+    - Talk about different objects, approaches to representing data.
+- Frame thinking of research
+    - **Strong objectivity**
+        - seeing from many points is going to bring the most interesting, diverse and complete knowledge.
+        - collectively come up with some interesting ideas of what is coming together in the media.
+<iframe src="https://research-methods-digital-age.com/home/week-1" style="width: 100vw; height: 100vh;">
+</iframe>
+
+- You will select your group: into groups. You will get info back from your TA at all points; hold on: look at it this way...
+- TA can be your check point
+- This project is meant to be a little bit anxiety producing; thinking about the possibility of failure, and that is OK. This is the time to do so.
+- You need to be able to take a risk
+- Your 3 pg essay: writing about your process; why / where did it go wrong? where did you go well...
+- Peer evaluations
+    - everyone will be held accountable.
+    - This is a doing class; no midterm...
+- Validity, reliability, objectivity etc.
+- Class participation, preparedness.
+- The 5 points will be based on oral participation and attendance.
+    - Will also be for online activities as well.
+    - Can you show your engagment?
+        - if you did it: 1 pt, did good job: 2 pts
