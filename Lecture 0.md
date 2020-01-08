@@ -87,11 +87,11 @@ Date: January 7th, 2019 7pm
 
 ## Resources: 
 <a href="https://research-methods-digital-age.com/home/week-1">
-<iframe src="https://research-methods-digital-age.com/home/week-1" style="width: 75vw; height: 75vh;" align="middle">
+<iframe src="https://research-methods-digital-age.com/home/week-1" style="width: 45vw; height: 45vh;" align="middle">
 </iframe></a>
 
 [Reading (Chapter 1)](http://93.174.95.29/main/2126000/e26bd5364c6f22de9419ef1c0ec1c485/Patricia%20Leavy%20-%20Research%20Design_%20Quantitative%2C%20Qualitative%2C%20Mixed%20Methods%2C%20Arts-Based%2C%20and%20Community-Based%20Participatory%20Research%20Approaches-The%20Guilford%20Press%20%282017%29.pdf#%5B%7B%22num%22%3A69%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)
 
 [Slides (Google Slides)](https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80)
 
-<iframe src="https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80" style="width: 75vw; height: 46vw"></iframe>
+<iframe src="https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80" style="width: 45vw; height: 45vw"></iframe>
