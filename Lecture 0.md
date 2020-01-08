@@ -94,4 +94,4 @@ Date: January 7th, 2019 7pm
 
 [Slides (Google Slides)](https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80)
 
-<iframe src="https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80" style="width: 75vw; height: 46vw")
+<iframe src="https://docs.google.com/presentation/embed?id=1Vc5_sy5QRLaCqGU7JRhvFfIzHMqaFKOzZ47BHlP5q80" style="width: 75vw; height: 46vw"></iframe>
