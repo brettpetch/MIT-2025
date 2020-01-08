@@ -5,4 +5,4 @@ Author: Brett Petch
 
 # Welcome
 
-1. [Lecture 1](/Lecture 0)
+1. [Lecture 1](./Lecture 0)
