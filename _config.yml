@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MIT 2025
-description: Research Methods in a Digital Age
+title: Research Methods in a Digital Age
+description: MIT 2025
 baseurl: "/MIT-2025" # the subpath of your site, e.g. /blog
 url: "https://brettpetch.ca" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: MIT-2025 # the GitHub repo name for your project
