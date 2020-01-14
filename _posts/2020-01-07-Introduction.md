@@ -14,7 +14,8 @@ layout: category-post
 - Blended course, 1/3 course content is delivered online.
 - Collect, Analyze, Create research projects.
 - Will not be doing essays, instead creating content. 
-- MFW it's a buzzfeed article. ![Screaming GIF](https://media.giphy.com/media/MS7fUhSAdxuOA/giphy.gif)
+- MFW it's a buzzfeed article. 
+![Screaming GIF](https://media.giphy.com/media/MS7fUhSAdxuOA/giphy.gif)
 - Media Arts Festival: timed perfectly; some projects featured at MAF at end of term. ***``March 22nd, 2019``***.
 - Each course section will get OWL for submissions. Squarespace Site [MIT 2025B - Research Methods for the Digital Age](https://research-methods-digital-age.com/)
 - FIMS is very supportive of this kind of work; this will be very public facing. Really strong projects will be featured on the site as well.
