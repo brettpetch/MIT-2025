@@ -1,11 +1,10 @@
 ---
-Title: Lecture 0 - MIT 2025 - Research Methods in a Digital Age
-Author: Brett Petch
-Date: 2019-01-07 19:00:00
+title: Introduction
+author: Brett Petch
+date: 2020-01-07 19:00:00
+layout: category-post
 ---
 
-# MIT 2025
-## Research Methods in a Digital Age
 ### Melissa Adler
 #### January 7th, 2019: 7pm Lecture
 

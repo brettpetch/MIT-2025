@@ -1,2 +1,6 @@
-.vscode/*
-.vscode
+.bundle
+.sass-cache
+_site
+.DS_Store
+Gemfile.lock
+*.gem
