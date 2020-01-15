@@ -31,3 +31,6 @@ theme_color: orange
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-45906012-10
