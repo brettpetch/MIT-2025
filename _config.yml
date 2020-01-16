@@ -20,7 +20,7 @@ url: "https://brettpetch.ca" # the base hostname & protocol for your site, e.g. 
 github_repo: MIT-2025 # the GitHub repo name for your project
 github_username: brettpetch
 course_site: https://research-methods-digital-age.com/ # Displayed in footer.
-
+owl: https://owl.uwo.ca/portal/site/8a188045-035f-459a-9897-ce08fd334814  # Course OWL Site
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
