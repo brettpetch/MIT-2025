@@ -35,3 +35,17 @@ markdown: kramdown
 
 # Google Analytics
 google_analytics: UA-45906012-10
+
+timezone: America/Toronto
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category_index"
