@@ -3,6 +3,9 @@ title: Introduction
 author: Brett Petch
 date: 2020-01-07 19:00:00
 layout: category-post
+categories: 
+    - week-1
+    - lecture
 ---
 
 ### Melissa Adler

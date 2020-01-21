@@ -3,6 +3,9 @@ title: Asking Questions, Framing Problems, and Science Reporting
 author: Brett Petch
 date: 2020-01-14 19:00:00
 layout: category-post
+categories: 
+    - week-2
+    - lecture
 ---
 
 #### Melissa Adler
