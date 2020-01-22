@@ -67,3 +67,47 @@ First, i'd like to talk about my own archival research coming out of the archive
 I went to the Library of Congress for a Research Trip, originally I thought it was about the sexualities, looked at the catalogue found a book called "The Bisexual...". The subject of the book was "perversion" I wanted to know where it came from, what it meant, and that became the dissertation for one of my paper. In 2007, they allowed this term to be used. Older records still have this deviation. Now they don't use that term for LGBTQ topics. Have you heard about the Delta Collection, which is about obscenities. No one knows anything about the secret collection. Office of the Keeper of Records. He was charged for keeping the collection of obscenty... There was a worry about sexual perversion, communism. Federal agencies really policed people's sexuality. If you were determined to be a possible deviant, you would be investigated and later fired. Post was monitored, post office would open things they were suspicious of obscenity. No one wanted to be associated with this, no one knew how to manage the collection. 
 
 No one could just ask for the collection. Anything with explicit material was seized. While doing the research, I found that even though the collection was denied access. The pages of many were mutilated. People would take a razor blade to remove images / materials. There was an FBI investigation; discovered that it's likely the work of a 'sexual pervert'. He had been investigated, the man in charge of the delta collection was thought to be guilty. 
+
+Hopefully, that gives you some context into archival research if you have questions, please ask. If there are any screenwriters in this class, I'd like to write a screenplay. In terms of sexual policing, etc...
+
+## Libraries and the Public Sphere
+A lot of us really care about the public sphere, public libraries are very important to the public sphere. There is the idea that they hold information for every member of the public. The London Public Library just started checking out musical insturments. Serve as centres for readings, etc. the democratic ideal is upheld. Information is hosted for all, something really interested in contrast to things like search engines. Concerned about censorship, equity of access, privacy, etc. These are really important information about the public sphere. At the same time, there is also things like critical information studies. Others look at the epistmeological study of archives. We can look at how they act as a medium, act as a medium and what kind of ideology is built into any kind of archive. Alot of things we see in archives, etc. work is based in the architectures. Metadata is regarded as being created by Librarians. Archivists bring question to Libraries and the public sphere, specifically the information.
+
+Library of congress in 1857, thiccc stacks of pages. 
+
+They needed to come up with the Library of Congress Classification.
+
+Organization of knowledge within disciplines is closely related to LoCC.
+
+Foucault
+> The Disciplines characterize, classify, specialize; they distribute along a scale, around a nrom, hierachize individuals in relation to one another and, if necessary, disqualify and invalidate. 
+- Foucault, Discipline and Punish (223)
+We encounter knowledge in relation to that vantage point. He talks about prisons, schools, archives. Libraries are the way that information flows. 
+
+### Community Archvies
+in partnership, collaberation with communities, what are the standards, etc. Maybe breaking from terms the government archvie would suggest. Also need to think about who can access things, where, when. What to keep, what to call it. 
+
+## Research Questions from Last Week:
+As we launch into this, we are going to look at the Kate and Meghan
+
+> How does race play into the expectations of motherhood in the royal family?
+
+Because we're using content analysis as a method of research, how would we be able to research this quesiton given the resources we have. If you wanted to think about this question, you might want to look at these representations inside the media. Get at the real essentials: How is something depicted in some kind of media? 
+
+> Is the celebrity status of Meghan an influence on how she is represented in the media?
+
+We may see reference, we are going to have to operationalize this, saying this is because of this. How will we know that any given representation is because of celebrity status. \
+
+> How does the media represent Meghan in relation to her career?
+
+We want to ensure your findings **are valid**. 
+
+> In what ways does race play a role in the differences in tone of headlines written about Kate vs. Meghan?
+
+as you're researching this, you'd need to know that this is becaue of race. how do you know it's about race rather than her celebrity, etc. Ensure what you're doing is consise. 
+
+## For the Next While:
+Look at your research question or topic. What kind of media are you looking at? Are you looking at postcards, picture books, etc. Begin to find content and see if you can find things related to your question, etc. When you go to tutorial you will hopefully share and compare. 
+
+If you get confused look at the syllabus.  The Table is really Great.
+Next week your content analysis is needed.
