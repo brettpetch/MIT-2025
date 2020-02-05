@@ -113,6 +113,8 @@ You've done brief analysis. In week 6, you are going to submit your data. Maybe 
 
 The final instalment: Write an essay that talks about the final project. The learning process, research methods, etc.
 
+## This week's Online Refine:
+Letter to whomever is to go to the manifesto, which I breifly referred to. Basically: Canadians and Americans got together and looked at refusals and commitments. This is just participation marks. 1 point if you do it, 2 if you do it well. It is a way for us to think through the course material. So, the manifest-no is because it is fun for one thing, and it's really current. It's really about data and data-collection thinking in terms of how data is collected and used. I want you to look at this and what you have learned so far and write a pretend letter to Google HQ, teachers, professors, etc. Bring this into it using these. Don't stress about anything. Write about something you know about. You do not need to research. It shouldn't take you an hour. 20-30 mins.
 
 ```
 END
