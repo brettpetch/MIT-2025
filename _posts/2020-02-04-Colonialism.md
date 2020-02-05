@@ -57,7 +57,66 @@ I want to alert you to this. Do not go into people's private accounts. This is a
 ## Case Study: The Milgram Experiment
 <iframe style="width: 55vw; height: 50vh;" src="https://www.youtube-nocookie.com/embed/fCVlI-_4GZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Gave the people the illusion of informed consent. They didn't know that they were going to be doing an obedience test. This study took place without strong ethical policies in universities. These policies had potential to do harm. How do we define harm? The withdrawal of consent was not allowed. The harm done was at a psychological level. This benefit of results were so impactful that they might be justified. Today, this would not be allowed. One of the other reasons these protocols are in place is to prevent community. If you do want to do some kind of research like this, you can talk to prof, or TAs. If you design a study, they can help you submit it to the institutional review board. If there is a possibility of your project is published, we want to ensure we are passing ethical tests for the project. If the research is at all close to being published, there is a way they'll likely be published in some way. You may make it for web, or in another way. 
+
+# Encoding / Decoding
+We are now moving to indiginous / feminist material. We are going to look again at encoding and decoding as a method. This is the process of taking whatever it is in the media and coding the data. You are doing this, reducing your data into categories and themes and making the analysis. What you're also doing is decoding the work. Your process is interesting from a media studys standpoint. You are looking at how media is creating meaning. It's interesting and complicated. We can look at Hall throuhg Tuck and Yang. 
+
+> Coding, once it begins, has already surrendered to a theory of knowledge. We ask, what is the code that lies beneath the code?
+
+> "Some communities -- particularly Indigenous, ghettoized and Orientalized communities -- are over-coded, that is, simultaneously hyper-surveyed and invidibilized / made invisible by the state, by police, and by social science research."
+
+This is how data is created in the settings / world views of the western world. We have been trained into a very western world view. Another quote
+> This invasion imperative is often disguised in universalist terms of producing "objective knowledge" for "the public." But most research rhetoric waxes the poetics of empire: to discover, to chart new terrain, to seek new frontiers, to explore, etc. The academy's unrelenting need to produce "original research" is what makes the inquiry an invading structure" 
+- (Tuck and Yang, 2014: 813)
+
+Linda Tuhiwai Smith wrote a book about decolonizing research and university. It's a really interesting book if you're interested in it. It's an essential text for this area of study.
+>“It appals us that the West can desire, extract and claim ownership of our ways of knowing, our imagery, the things we create and produce, and then simultaneously reject the people who created and developed those ideas and seek to deny them further opportunities to be creators of their own culture and own nations. It angers us when practices linked to the last century, and the centuries before that, are still employed to deny the validity of indigenous peoples’ claim to existence, to land and territories, to the right of self-determination, to the survival of our languages and forms of cultural knowledge, to our natural resources and systems for living within our environments.”
+- Linda Tuhiwai Smith
+
+## Refusal and commitments
+Tuck and Yang really surrounds itself in refusal as a method. I think it's a really compelling frame to think of research method. It was written *just* before the semester was started. It is all organized in refusal and commitments. For tuck and Yang, it's about refusing damage-centered research. We're going to refuse white people going into areas and writing about how terrible it is. Instead of subjecting communities and individuals to this research, we are instead going to interrogate government structures about these practices. Refusal of extraction and types of knowledge. There will be an optional reading on Colonial Unknowing posted on the course site soon. A lot of this colonizing has to do with unknowing and refusing. It's about unknowing and questioning the process of objectification. In some research, people become objects of the research. That's a problem, particularly in communities that might be vulnerable. It's about the gaze and the gaze of power.
+
+## Land Acknowledgement 
+Research and knowledge is all related to land. I'm going to assume that you know or have heard the land acknowledgement. This acknowledges that the land is stolen. This research institution that gains so much wealth in doing research and brings together how power, research and government is related to the land. The second part of the land acknowledgement is that we have previously violated relationships. I am featuring this on how the relationship between land and research methods matter in discovery, etc. It's pretty fascinating. We hope you pull these things apart in tutorial. These might be things to work through.
+
+> We acknowledge that Western University is located on the traditional lands of the Anishinaabek (Ah-nish-in-a-bek), Haudenosaunee (Ho-den-no-show-nee), Lūnaapéewak (Len-ahpay-wuk) and Attawandaron (Add-a-won-da-run) peoples, on lands connected with the London Township and Sombra Treaties of 1796 and the Dish with One Spoon Covenant Wampum.
+- [Western University](https://www.uwo.ca)
+
+> With this, we respect the longstanding relationships that Indigenous Nations have to this land, as they are the original caretakers. We acknowledge historical and ongoing injustices that Indigenous Peoples (e.g. First Nations, Métis and Inuit) endure in Canada, and we accept responsibility as a public institution to contribute toward revealing and correcting miseducation as well as renewing respectful relationships with Indigenous communities through our teaching, research and community service.
+- [FIMS at Western University](https://fims.uwo.ca/)
+
+What does Truth and Reconciliation mean to you?
+What might Truth and Reconciliation look like in media studies? Think of some of the ways in which the media participates in colonialism. Have you observed ways that media have facilitated anti-colonial or decolonizing projects? Can you think of examples?
+What questions do you have? What are the things you wish you knew more about?
 
 
-## Slides
+Questions that matter in relation to ownership, purpose of research.
+- Whose research is it?
+- Who owns it?
+- Whose interests does it serve?
+- Who will benefit from it?
+- Who has designed its questions and framed its scope?
+- Who will carry it out?
+- Who will write it up?
+- How will the results be disseminated? (Smith, 10)
+
+
+## Announcement: Flaunting It.
+I am the keynote speaker on this. If you want to know about my own project, or want to submit your own, see the link below, or contact Melissa Adler.
+https://www.facebook.com/events/858765784553696
+
+## The Assignment:
+The Tuesday is behind the Wednesday people. We need to be on the same page. Lecture, activity, tutorial. There is a method to the madness. What's due and when?
+
+You've done brief analysis. In week 6, you are going to submit your data. Maybe your data has taken your project in different directions. That means that the thing you are analysing, the media itelf, how much is enough / am i doing this right. You need to look at the sources of data itself. You'll likely just submit links / hashtag and a citation. Why you selected these pieces for your dataset. This is not on each data point, but the about the whole thing. A paragraph or 2 on the whole process. It's ok if you fail, we will support you in taking risks. Where did you find your data and where? Is your sample representative of a higher set. I'm doing the oversion of this class with 3rd year Honours Students, but I have people doing things from Twitter Hashtags to Documentary Films. Because of the constraints of the project, they don't have the time to do more than 3 (documentary people). There aren't that many films on the particular topic. What can we say we know based on these films and what are the limits to the knowledge in the documentaries. This is the representation of serial killers. They're going to produce knowledge, dialogue and literature on each of these. In Twitter Hashtags, there is not alot of complex thought going on. And so, for the hashtag, the challenge is how do you know you have enough to say that it's representative of what the hashtag is for. People ask HOW MUCH? If you look at News Articles, 20-25 news articles is the amount required for this course in relation to time constraints, etc. If you're looking at Twitter data. If your data is repeating itself / if you are not learning anything new, you've likely hit a dead end.
+
+The final instalment: Write an essay that talks about the final project. The learning process, research methods, etc.
+
+
+```
+END
+```
+
+# Slides
 <iframe scrolling="no" style="width: 55vw; height: 50vh;" src="https://docs.google.com/presentation/embed?id=1w_yEQ2Y95V6m3T6DQxqDwcnf2EFF-IXM_PCbBVfyqhg&referrer=https%3A%2F%2Fresearch-methods-digital-age.com%2Fhome%2Fweek-5-colonialism&size=l" allowfullscreen="true" frameborder="0"></iframe>
