@@ -79,10 +79,21 @@ I encourage you to see all of these.  I want to jump down to Jeremy Dutcher. He 
 <p><a href="https://vimeo.com/214539548#t=8m11s">Open to Television (Critical Karaoke)</a> from <a href="https://vimeo.com/user65707803">Lisa Henderson</a> on <a href="https://vimeo.com">Vimeo</a>. Play from 6:10.</p>
 
 ## Zines
-[Atrocities Against Indigenous Canadians](https://www.atrocitiesagainstindigenouscanadians.com/)
+### [Atrocities Against Indigenous Canadians](https://www.atrocitiesagainstindigenouscanadians.com/)
 See more on course website toolbox.
+<iframe style="width: 55vw; height: 55vh;" src="https://www.atrocitiesagainstindigenouscanadians.com/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## FIMS Fac Projects
 
+### Museum of Dreams
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/202630323?portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/202630323">A Fichu Turning</a> from <a href="https://vimeo.com/user50459799">The Museum of Dreams</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+### Website: [Surviving Memory in Postwar El Salvador](https://www.elsalvadormemory.org/what-we-do)
+<iframe style="width: 55vw; height: 55vh;" src="https://www.elsalvadormemory.org/what-we-do" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# In the end, it all has to ohave some kind of digital form. IT MUST BE DIGITZED.
+We will support you in any way we can. Open Access software labs, etc. will be workshopped. Make sure you contain it.
 
 # Slides
 <iframe scrolling="no" style="width: 55vw; height: 45vh;" src="https://docs.google.com/presentation/embed?id=1DGZPNbVoKWfUxx9pdVL-16jQQpdDVaftpsk6MB92LIA" allowfullscreen="true" frameborder="0"></iframe>
