@@ -66,8 +66,21 @@ You will not be graded on the artistic aspect. We are interested in:
 # Examples: <a href="https://research-methods-digital-age.com/home/toolbox" target="_blank">See Research Creation Toolbox</a>.
 I encourage you to see all of these.  I want to jump down to Jeremy Dutcher. He will be coming to FIMS in 5 weeks from now. He is an extraordinary performer, he is indiginous and did his project out east, working with wolastoq songs from 1907. They were recorded on wax cylinders. The idea of indiginizing and reclaiming. He has put himself in dialogue with these people from over a century ago. He has written music that is similar. I am going to play one of his pieces. I don't expect you to have skills like this necessarily, but look at how they came from research. 
 
+## Music
 ### See: CBC Music - <a href="https://youtu.be/0FKXcScqGIw" target="_blank">Jeremy Dutcher Live</a>.
 <iframe style="width: 55vw; height: 55vh;" src="https://www.youtube-nocookie.com/embed/0FKXcScqGIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Rewrite of Post Malone's "Better Now"
+<iframe style="width: 55vw; height: 55vh;" src="https://www.youtube-nocookie.com/embed/mnc1q5vIP1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Critical Karaoke
+### Lisa Henderson's Open to Television
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/214539548?portrait=0#t=8m11s" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/214539548#t=8m11s">Open to Television (Critical Karaoke)</a> from <a href="https://vimeo.com/user65707803">Lisa Henderson</a> on <a href="https://vimeo.com">Vimeo</a>. Play from 6:10.</p>
+
+## Zines
+[Atrocities Against Indigenous Canadians](https://www.atrocitiesagainstindigenouscanadians.com/)
+See more on course website toolbox.
 
 
 
