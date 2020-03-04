@@ -81,3 +81,4 @@ Next thing:
 ## Netlytic: You have 3 choices:
 Download a dataset using Netlytic (data should do something with climate change) OR visualize the data stored on your phone and consider its carbon consumption (be creative and descriptive!) or keep a photo log of carbon consumption of a data of your life.
 
+Provide a paragraph with some response. 
