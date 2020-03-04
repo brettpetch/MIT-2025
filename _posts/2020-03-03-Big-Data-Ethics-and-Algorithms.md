@@ -69,11 +69,9 @@ Volume, Variety, Velocity, veracity, variability, value.
 ### Ethics, Responsible Big Data Research
 - Acknowledge that data re people and can do harm
 - Privacy isn't just about public / private data
-- Think about the possibbility of reuse / reidentification of your data
+- Think about the possibility of reuse / reidentification of your data
 - Practice ethical data sharing
 - Big does not always mean better
 - Design for auditability.
 - Get participants and communities involved in establishing codes of conduct.
 - Consider the broader consequences.
-
-
