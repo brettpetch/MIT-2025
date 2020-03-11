@@ -1,5 +1,5 @@
 ---
-title: Big data ethics, Algorithms
+title: Interviews & Ethnography
 author: Brett Petch
 date: 2020-03-10 19:00:00
 layout: category-post
